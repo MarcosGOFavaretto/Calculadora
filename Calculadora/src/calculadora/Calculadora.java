@@ -1,5 +1,5 @@
 /**
- * Projeto: Calculadora
+ * Projeto: Calculadora.
  * Autor: Marcos Gabriel De Oliveira Favaretto.
  * Data: 01 de Agosto de 2019.
  */
